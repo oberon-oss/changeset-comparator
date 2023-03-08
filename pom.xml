@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.oberon.oss.tools</groupId>
-    <artifactId>changeset-tool</artifactId>
+    <artifactId>changeset-comparator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>changeset-tool</name>
